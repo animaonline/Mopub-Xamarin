@@ -2,3 +2,7 @@ X:\src\Github\fanfiction\Mopub\bin\Debug\Mopub.dll
 X:\src\Github\fanfiction\Mopub\bin\Debug\Mopub.pdb
 X:\src\Github\fanfiction\Mopub\obj\Debug\Mopub.dll
 X:\src\Github\fanfiction\Mopub\obj\Debug\Mopub.pdb
+X:\src\Github\Mopub-Xamarin\Mopub\Mopub\bin\Debug\Mopub.dll
+X:\src\Github\Mopub-Xamarin\Mopub\Mopub\bin\Debug\Mopub.pdb
+X:\src\Github\Mopub-Xamarin\Mopub\Mopub\obj\Debug\Mopub.dll
+X:\src\Github\Mopub-Xamarin\Mopub\Mopub\obj\Debug\Mopub.pdb
