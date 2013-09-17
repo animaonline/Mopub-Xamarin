@@ -1,0 +1,11 @@
+com.mopub.mobileads.AdFetcher$FetchStatus:Com.Mopub.Mobileads:AdFetcher.FetchStatus
+com.mopub.mobileads.AdUrlGenerator$MoPubNetworkType:Com.Mopub.Mobileads:AdUrlGenerator.MoPubNetworkType
+com.mopub.mobileads.MoPubErrorCode:Com.Mopub.Mobileads:MoPubErrorCode
+com.mopub.mobileads.MoPubInterstitial$InterstitialState:Com.Mopub.Mobileads:MoPubInterstitial.InterstitialState
+com.mopub.mobileads.MoPubView$LocationAwareness:Com.Mopub.Mobileads:MoPubView.LocationAwareness
+com.mopub.mobileads.MraidView$ExpansionStyle:Com.Mopub.Mobileads:MraidView.ExpansionStyle
+com.mopub.mobileads.MraidView$NativeCloseButtonStyle:Com.Mopub.Mobileads:MraidView.NativeCloseButtonStyle
+com.mopub.mobileads.MraidView$PlacementType:Com.Mopub.Mobileads:MraidView.PlacementType
+com.mopub.mobileads.MraidView$ViewState:Com.Mopub.Mobileads:MraidView.ViewState
+com.mopub.mobileads.resource.Drawables:Com.Mopub.Mobileads.Resource:Drawables
+com.mopub.mobileads.util.VersionCode:Com.Mopub.Mobileads.Util:VersionCode

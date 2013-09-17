@@ -1,0 +1,4 @@
+X:\src\Github\fanfiction\Mopub\bin\Release.Free\Mopub.dll
+X:\src\Github\fanfiction\Mopub\bin\Release.Free\Mopub.pdb
+X:\src\Github\fanfiction\Mopub\obj\Release.Free\Mopub.dll
+X:\src\Github\fanfiction\Mopub\obj\Release.Free\Mopub.pdb

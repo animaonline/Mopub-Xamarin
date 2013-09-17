@@ -1,0 +1,32 @@
+<metadata>
+  <!--
+  This sample removes the class: android.support.v4.content.AsyncTaskLoader.LoadTask:
+  <remove-node path="/api/package[@name='android.support.v4.content']/class[@name='AsyncTaskLoader.LoadTask']" />
+  
+  This sample removes the method: android.support.v4.content.CursorLoader.loadInBackground:
+  <remove-node path="/api/package[@name='android.support.v4.content']/class[@name='CursorLoader']/method[@name='loadInBackground']" />
+  -->
+
+  <remove-node path="/api/package[@name='com.mopub.mobileads.factories']/class[@name='HtmlBannerWebViewPool']"/>
+  <remove-node path="/api/package[@name='com.mopub.mobileads.factories']/class[@name='HtmlInterstitialWebViewPool']"/>
+  <remove-node path="/api/package[@name='com.mopub.mobileads']/class[@name='HtmlInterstitial']"/>
+  <remove-node path="/api/package[@name='com.mopub.mobileads']/class[@name='ResponseBodyInterstitial']"/>
+  <remove-node path="/api/package[@name='com.mopub.mobileads']/class[@name='AdFetchTask']"></remove-node>
+
+  <attr path="/api/package[@name='com.mopub.mobileads']/class[@name='MraidProperty']" name="visibility">public</attr>
+  <attr path="/api/package[@name='com.mopub.mobileads']/class[@name='ResponseBodyInterstitial']" name="visibility">public</attr>
+
+  <attr
+        path="/api/package[@name='com.mopub.mobileads.factories']/class[@name='HtmlBannerWebViewPool']/method[@name='createNewHtmlWebView' and count(parameter)=0]"
+        name="managedReturn">Java.Lang.Object</attr>
+  <attr
+    path="/api/package[@name='com.mopub.mobileads.factories']/class[@name='HtmlInterstitialWebViewPool']/method[@name='createNewHtmlWebView' and count(parameter)=0]"
+    name="managedReturn">Java.Lang.Object</attr>
+
+  <attr path="/api/package[@name='com.mopub.mobileads']/class[@name='CustomEventInterstitial']/method[@name='showInterstitial' and count(parameter)=0]" name="visibility">public</attr>
+
+  <attr path="/api/package[@name='com.mopub.mobileads']/class[@name='HtmlInterstitial']/method[@name='showInterstitial' and count(parameter)=0]" name="visibility">public</attr>
+
+  <attr path="/api/package[@name='com.mopub.mobileads']/class[@name='ResponseBodyInterstitial']/method[@name='showInterstitial' and count(parameter)=0]" name="visibility">public</attr>
+
+</metadata>
